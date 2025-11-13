@@ -1,7 +1,7 @@
 {
   "name": "PWA-Sotelo",
   "short_name": "PWA",
-  "start_url": "/FireBaseMessage/",
+  "start_url": "/FireBaseMessage.github.io/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#111827"
